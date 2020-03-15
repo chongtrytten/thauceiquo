@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kohzoxahvi.singulottery.com/sitemap.xml
